@@ -1,6 +1,6 @@
 
 # BIBLIOTECAS
-
+# Download tkinter, pymong, screts, requestes, pandas, numpy, pillow.
 from doctest import master
 import json
 from textwrap import indent
