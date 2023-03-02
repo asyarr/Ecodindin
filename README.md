@@ -1,9 +1,9 @@
 # Ecodindin
-This is a python program, it uses tkinter library to create a window where peple can log in or sign up.
+This is a python program, it uses tkinter to create a window where people can exchange points, log in and sign up.
 
 
-You will also need to download others libery so the program works, the libraries are on top of the code.
+You will also need to download others libraries so the program works, the libraries are on top of the code.
 
-This code was made for a college project, the piot was creating a programm that could help the environment.
+This code was made for a college project, the point was creating a programm that could help the environment.
 So we made this program where people can gain points when they recicle something and they can change the points 
-for others products. We used MongoDB to sabe the informations.
+for products in a supermarket. We used MongoDB to save the informations.
