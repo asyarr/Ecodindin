@@ -4,7 +4,13 @@ Ecodindin is a Python program developed using the Tkinter library to create a us
 
 ### Features:
 - User Interface: Built with Tkinter, the program provides a window where users can log in, sign up, and exchange points.
+
+  ![image](https://github.com/user-attachments/assets/df63ad5f-65ec-4fdc-835a-5e42e8bd4dd4)
+
 - Point System: Users earn points by recycling items. These points can be redeemed for products at participating supermarkets.
+
+  ![image](https://github.com/user-attachments/assets/9526f5bc-5875-43f7-b15c-5fdc5584d32c)
+
 - Database Integration: MongoDB is used to store user information and track points.
 
 ### Requirements:
