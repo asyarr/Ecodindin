@@ -34,7 +34,6 @@ from PIL import Image
 
 # Indicando para onde os dados devem ir:
 
-cluster = pymongo.MongoClient("mongodb+srv://raysa_grippa:1BXi1NRZERxvMQyw@cluster0.jj5qy.mongodb.net/hackaton?retryWrites=true&w=majority")
 
 db = cluster.get_database('EcoDinDin')
 
